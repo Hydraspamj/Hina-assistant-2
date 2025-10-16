@@ -16,7 +16,7 @@ A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb dat
 - [x] Heroku Deploy
 - [x] Docker/Local Machine
 
-╘═━「 Can be found on telegram as [NekoRobot](https://telegram.dog/NekoCuteBot) 」
+╘═━「 Can be found on telegram as [Hina Assistant](https://telegram.me/Hinaxassistant_bot) 」
 
 ## ╔═━「 Credits 」
 The bot is based of on the original work done by [Shinu_han](https://github.com/PaulSonOfLars)
