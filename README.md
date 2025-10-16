@@ -1,6 +1,6 @@
-<img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="Meow Meow... Your Internet Gones..." height="250px">
+<img src='https://telegra.ph/file/3c3ab79fba0fa91a4ae8e.jpg' alternate="hina is coming for you ..." height="250px">
 
-# 𝐍𝐞𝐤𝐨 𝐑𝐨𝐛𝐨𝐭 [ BETA ]
+# Hina X Assistant [2.0]
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Awesome-Prince/NekoRobot-3/?ref=repository-badge) [![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.dog/Besties_XD) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Awesome-Prince/NekoRobot-3/graphs/contributors/)
 
 A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb database.
@@ -19,27 +19,15 @@ A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb dat
 ╘═━「 Can be found on telegram as [NekoRobot](https://telegram.dog/NekoCuteBot) 」
 
 ## ╔═━「 Credits 」
-The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
-This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
+The bot is based of on the original work done by [Shinu_han](https://github.com/PaulSonOfLars)
+This repo was just reamped to suit an star community. All original credits go to shinu and his dedication, Without his efforts, this fork would not have been possible!
 
-### ╔═━「 Creator Info/Credits 」
-
-+ [Lovely-Prince](https://github.com/Awesome-Prince) : OWNER | DEV
-+ [AkshayRajput](https://github.com/TheHamkerCat) : ARQ MODULES
-+ [TheRealPhoenix](https://github.com/rsktg) : BASE
-+ [DragSama](https://github.com/DragSama) : ANIME
-+ [TsunayoshiSawada](https://github.com/TsunayoshiSawada) : BASE
-+ [Pokurt](https://github.com/pokurt) : WHATANIME MODULE API
-+ [Dank-del](https://github.com/Dank-del) : LEWD MODULE
-+ [InukaAsith](https://github.com/InukaAsith) : MEMES, INLINE ETC MODULES 
-+ [AyraHikari](https://github.com/AyraHikari): FED MODULE
-+ [Peaktogoo](https://github.com/peaktogoo) : FED MODULE
 
 ╘═━「 Any other authorship/credits can be seen through the commits. 」
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-The Support group can be reached out to at [Programmer • Support](https://telegram.dog/Besties_XD) Or [Neko Support (Github)](https://github.com/Awesome-Prince/NekoRobot-3/discussions/15), where you can ask for help about [NekoRobot](https://telegram.dog/NekoCuteBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Hina • Support](https://t.me/han_support_groups) Or [Hina Support (Github)](https://github.com/Awesome-Prince/NekoRobot-3/discussions/15), where you can ask for help about [Hina Assistant](https://telegram.me/Shinu_han), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Deploy Options</summary>
@@ -65,7 +53,7 @@ The Support group can be reached out to at [Programmer • Support](https://tele
 
 Edit Config.py with your own Values
 
-Start with ```python3 -m NekoRobot```
+Start with ```python3 -m Hina_x_Assistant```
 
 </details>    
 
